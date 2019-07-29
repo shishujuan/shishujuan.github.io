@@ -6,7 +6,7 @@ subtitle:   ""
 date:       2018-11-18 22:43:00 +0800
 author:     "ssj"
 header-img: "img/post/rsa-algrithm.png"
-categories: 数据结构和算法
+categories: 密码学
 catalog: true
 comments: true
 tags:
